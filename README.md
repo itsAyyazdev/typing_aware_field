@@ -9,3 +9,4 @@ Add the following to your `pubspec.yaml`:
 ```yaml
 dependencies:
   typing_aware_field: ^1.0.0# typing_aware_field
+# typing_aware_field
