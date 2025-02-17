@@ -91,7 +91,7 @@ TypingAwareTextFormField(
 
 Here’s a screenshot of the `TypingAwareTextFormField` in action:
 
-![Screenshot](https://imgur.com/a/K0segtc)
+![typing textfield flutter](https://i.imgur.com/PHWQ22c.png)
 
 ## Platform Support
 This package works on:
