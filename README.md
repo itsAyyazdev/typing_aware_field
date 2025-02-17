@@ -91,7 +91,7 @@ TypingAwareTextFormField(
 
 Here’s a screenshot of the `TypingAwareTextFormField` in action:
 
-![Screenshot](https://github.com/itsAyyazdev/typing_aware_field/blob/main/screenshots/s1.png)
+![Screenshot](https://imgur.com/a/K0segtc)
 
 ## Platform Support
 This package works on:
