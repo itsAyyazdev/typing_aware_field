@@ -1,6 +1,6 @@
 name: typing_aware_field
 description: A Flutter package that provides a TypingAwareTextFormField widget to detect user typing.
-version: 1.0.0
+version: 1.0.2
 homepage: https://github.com/itsAyyazdev/typing_aware_field
 repository: https://github.com/itsAyyazdev/typing_aware_field.git
 issue_tracker: https://github.com/itsAyyazdev/typing_aware_field/issues
@@ -15,3 +15,21 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+keywords:
+  - flutter
+  - textfield
+  - typing detection
+  - real-time
+  - form validation
+  - typing indicator
+  - typing aware
+  - typing aware field
+  - typing aware text field
+  - typing aware textformfield
+  - typing aware form field
+  - typing field
+  - typing text field flutter
+  - typing text form field flutter
+  - typing detect
+  - typing detect field
